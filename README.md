@@ -19,9 +19,9 @@
 | 8.0         | ^7.0              |
 | 9.0         | ^8.0              |
 
-`nwidart/laravel-menus` is a laravel package which created to manage menus. It has a feature called presenters which enables easy styling and custom structure of menu rendering.
+`tecnodesignc/laravel-menus` is a laravel package which created to manage menus. It has a feature called presenters which enables easy styling and custom structure of menu rendering.
 
-This package is a re-published, re-organised and maintained version of [pingpong/menus](https://github.com/pingpong-labs/menus), which isn't maintained anymore. This package is used in [AsgardCMS](https://asgardcms.com/).
+This package is a re-published, re-organised and maintained version of [nwidart/aravel-menus](https://nwidart.com/laravel-menus/), which isn't maintained anymore. This package is used in EncoreCMS.
 
 With one big added bonus that the original package didn't have: **tests**.
 

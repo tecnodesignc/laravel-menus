@@ -8,15 +8,16 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/nWidart/laravel-menus.svg?style=flat-square)](https://scrutinizer-ci.com/g/nWidart/laravel-menus)
 [![Total Downloads](https://img.shields.io/packagist/dt/nwidart/laravel-menus.svg?style=flat-square)](https://packagist.org/packages/nwidart/laravel-menus)
 
-| **Laravel**  |  **laravel-menus** |
-|---|---|
-| 5.4  | ^0.5  |
-| 5.5  | ^1.0  |
-| 5.6  | ^2.0  |
-| 5.7  | ^3.0  |
-| 5.8  | ^4.0  |
-| 6.0  | ^5.0  |
-| 8.0  | ^7.0  |
+| **Laravel** | **laravel-menus** |
+|-------------|-------------------|
+| 5.4         | ^0.5              |
+| 5.5         | ^1.0              |
+| 5.6         | ^2.0              |
+| 5.7         | ^3.0              |
+| 5.8         | ^4.0              |
+| 6.0         | ^5.0              |
+| 8.0         | ^7.0              |
+| 9.0         | ^8.0              |
 
 `nwidart/laravel-menus` is a laravel package which created to manage menus. It has a feature called presenters which enables easy styling and custom structure of menu rendering.
 
